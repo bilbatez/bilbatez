@@ -8,7 +8,7 @@
   <a href="https://open.spotify.com/user/albertjtan?si=aqKOpBpcRNS8iwimko2mGA"><img src="https://img.shields.io/badge/-@albertjtan-808080?style=flat-square&amp;labelColor=1DB954&amp;logo=Spotify&amp;logoColor=fff&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
 </p>
 
-I'm a software engineer [@bliblidotcom](https://github.com/bliblidotcom), an e-commerce company based in 🇮🇩 Indonesia. Currently, I'm working on some side projects, learning how to cook, and laying waste to fallen empires in Stellaris.
+I'm a software engineer [@bliblidotcom](https://github.com/bliblidotcom), an e-commerce company based in 🇮🇩 Indonesia. Currently, I'm working on some side projects, learning how to cook, and laying waste to fallen empires in Stellaris. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
 
 ![Albert Julian Tannady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilbatez&show_icons=true&count_private=true)
 
@@ -38,4 +38,3 @@ I'm a software engineer [@bliblidotcom](https://github.com/bliblidotcom), an e-c
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40" />
 </p>
-
