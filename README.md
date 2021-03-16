@@ -7,7 +7,9 @@
   <a href="https://dev.to/albertjt"><img src="https://img.shields.io/badge/-@albertjt-808080?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a>
   <a href="https://open.spotify.com/user/albertjtan?si=aqKOpBpcRNS8iwimko2mGA"><img src="https://img.shields.io/badge/-@albertjtan-808080?style=flat-square&amp;labelColor=1DB954&amp;logo=Spotify&amp;logoColor=fff&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
   <a href="https://www.codewars.com/users/Bilbatez"><img src="https://img.shields.io/badge/-@Bilbatez-808080?style=flat-square&amp;labelColor=B1361E&amp;logo=Codewars&amp;logoColor=fff&amp;link=https://www.codewars.com/users/Bilbatez" alt="Codewars Badge"></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=bilbatez.bilbatez" alt="Visitor Badge">
 </p>
+
 
 I'm a software engineer [@bliblidotcom](https://github.com/bliblidotcom), an e-commerce company based in 🇮🇩 Indonesia. Currently, I'm working on some side projects, learning how to cook, and laying waste to fallen empires in Stellaris. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
 
