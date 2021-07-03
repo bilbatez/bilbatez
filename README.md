@@ -16,7 +16,7 @@ I'm a software engineer [@bliblidotcom](https://github.com/bliblidotcom), an e-c
 ![Albert Julian Tannady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilbatez&show_icons=true&count_private=true)
 
 ## 🤡 Fun Facts
-- 🤔 I’m currently learning how to become a [Pythonista](https://python.org)
+- 🤔 I’m currently learning anything that piques my interest at the moment.
 - 💬 Ask me about **web stuff**. We might learn something together 😉
 - 🎸 I can play guitar ~~and sing!~~
 - 📖 I am blibliophile, kindle ftw!
