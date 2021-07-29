@@ -13,8 +13,6 @@
 
 I'm a software engineer [@bliblidotcom](https://github.com/bliblidotcom), an e-commerce company based in 🇮🇩 Indonesia. Currently, I'm working on some side projects, learning how to cook, and laying waste to fallen empires in Stellaris. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
 
-![Albert Julian Tannady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilbatez&show_icons=true&count_private=true)
-
 ## 🤡 Fun Facts
 - 🤔 I’m currently learning anything that piques my interest at the moment.
 - 💬 Ask me about **web stuff**. We might learn something together 😉
