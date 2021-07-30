@@ -17,7 +17,7 @@ I'm a software engineer [@bliblidotcom](https://github.com/bliblidotcom), an e-c
 - 🤔 I’m currently learning anything that piques my interest at the moment.
 - 💬 Ask me about **web stuff**. We might learn something together 😉
 - 🎸 I can play guitar ~~and sing!~~
-- 📖 I am blibliophile, kindle ftw!
+- 📖 I am blibliophile, been collecting books more than I read'em!
 - 🖋️ I write blog sometimes!
 
 ## 🧰 Tech Stack
