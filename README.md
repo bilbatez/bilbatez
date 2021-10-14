@@ -11,7 +11,7 @@
 </p>
 
 
-I'm a programmer [@bliblidotcom](https://github.com/bliblidotcom), an e-commerce company based in 🇮🇩 Indonesia. Currently, I'm working on some side projects, learning some new stuff, and laying waste to fallen empires in Stellaris. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
+I'm a programmer [@shopee](https://github.com/Shopee), an e-commerce company in :singapore: Singapore. Currently, I'm working on some side projects, learning some new stuff, and laying waste to fallen empires in Stellaris. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
 
 ## 🤡 Fun Facts
 - 🤔 I’m currently learning anything that piques my interest at the moment.
