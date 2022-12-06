@@ -11,7 +11,7 @@
 </p>
 
 
-I'm a programmer at Bank of America, Singapore Branch. Currently, I'm working on some side projects, learning some new stuff, and laying waste to empires in Stellaris & Crusader Kings 3. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
+I'm a programmer at [Bank of America](https://www.bankofamerica.com/), Singapore Branch. Currently, I'm working on some side projects, learning some new stuff, and laying waste to empires in Stellaris & Crusader Kings 3. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
 
 ## 🤡 Fun Facts
 - 🤔 I’m currently learning anything that piques my interest at the moment.
