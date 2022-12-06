@@ -1,4 +1,4 @@
-# 🌌 Hello Universe!! I'm Albert! 👋
+# 🌌 Hello Universe!! 👋
 
 <p>
   <a href="https://albertjtan.com"><img src="https://img.shields.io/badge/-albertjtan.com-808080?style=flat-square&amp;labelColor=42F5D4&amp;logo=google-chrome&amp;logoColor=fff&amp;link=https://albertjtan.com" alt="Website Badge"></a>
@@ -11,7 +11,7 @@
 </p>
 
 
-I'm a programmer at [Bank of America](https://www.bankofamerica.com/), Singapore Branch. Currently, I'm working on some side projects, learning some new stuff, and laying waste to empires in Stellaris & Crusader Kings 3. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
+I'm Albert, a software engineer at [Bank of America](https://www.bankofamerica.com/), Singapore Branch. Currently, I'm working on some side projects, learning some new stuff, and laying waste to empires in Stellaris & Crusader Kings 3. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
 
 ## 🤡 Fun Facts
 - 🤔 I’m currently learning anything that piques my interest at the moment.
