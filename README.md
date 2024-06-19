@@ -13,7 +13,7 @@
 I'm Albert, a software engineer at [Bank of America](https://www.bankofamerica.com/), Singapore Branch. Currently, I'm working on some side projects, learning some new stuff, and laying waste to empires in Stellaris & Crusader Kings 3. Reach me on [me@albertjtan.com](mailto:me@albertjtan.com) or [here](https://github.com/bilbatez/bilbatez/issues)
 
 ## 🤡 Fun Facts
-- 🤔 I’m currently learning anything that piques my interest at the moment.
+- 🤔 I’m currently contemplating the meaning of universe.
 - 💬 Ask me about **web stuff**. We might learn something together 😉
 - 🎸 I can play guitar ~~and sing!~~
 - 📖 I am blibliophile, been collecting books more than I read'em!
@@ -26,7 +26,8 @@ I'm Albert, a software engineer at [Bank of America](https://www.bankofamerica.c
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="rust" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="rust" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
